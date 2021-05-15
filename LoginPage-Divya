@@ -1,0 +1,35 @@
+echo "# WebDev" >> README.md
+git init
+<html>
+<head>
+   
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+<style>
+
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+a {text-align: center;}
+blockquote {text-align: center;}
+img {text-align: center;}
+</style>
+</head>
+<body style="font:TT Interphases ExtraBold;">
+    <!--Title of our page-->
+    <h2><b>BookMarker</b></h2>
+<br></br>
+<br></br>
+<h1><b>Welcome to BookMarker</b></h1>
+
+<blockquote><font size="+1"><b>We are excited to have you here. We are dedicated to make your intriguing journey of books more fascinating.</font></b></blockquote>
+<img src="https://images.app.goo.gl/Hb9Q2vHPTy6YW4FS9">
+<a href="https://www.oncrashreboot.com/images/create-apple-google-signin-buttons-quick-dirty-way-google.png"></a>
+<a href="https://accounts.google.com/ServiceLogin/signinchooser?elo=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"></a>
+<p>By signing in, You accept to our terms and conditions.</p>
+
+</body>
+</html> 
+git commit
